@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Add Contacts</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="number">Number</string>
+    <string name="hello">Hello</string>
+</resources>
